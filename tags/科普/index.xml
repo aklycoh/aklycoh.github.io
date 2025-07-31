@@ -1,4 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>科普 on Akly的心灵花园</title><link>https://aklycoh.github.io/tags/%E7%A7%91%E6%99%AE/</link><description>Recent content in 科普 on Akly的心灵花园</description><generator>Hugo -- 0.148.1</generator><language>zh-cn</language><lastBuildDate>Tue, 08 Jul 2025 08:25:00 +0800</lastBuildDate><atom:link href="https://aklycoh.github.io/tags/%E7%A7%91%E6%99%AE/index.xml" rel="self" type="application/rss+xml"/><item><title>科学如何帮助我们应对压力</title><link>https://aklycoh.github.io/posts/pressure/</link><pubDate>Tue, 08 Jul 2025 08:25:00 +0800</pubDate><guid>https://aklycoh.github.io/posts/pressure/</guid><description>&lt;p>今天读了《Nature》（作者：Lynne Peeples）上一篇关于压力如何损害我们健康的论文，我把重要内容分享给大家。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>科普 on Akly的心灵花园</title><link>https://aklycoh.github.io/tags/%E7%A7%91%E6%99%AE/</link><description>Recent content in 科普 on Akly的心灵花园</description><generator>Hugo -- 0.148.2</generator><language>zh-cn</language><lastBuildDate>Mon, 28 Jul 2025 08:25:00 +0800</lastBuildDate><atom:link href="https://aklycoh.github.io/tags/%E7%A7%91%E6%99%AE/index.xml" rel="self" type="application/rss+xml"/><item><title>对经验的不同理解</title><link>https://aklycoh.github.io/posts/understanding_experience_vs_science/</link><pubDate>Mon, 28 Jul 2025 08:25:00 +0800</pubDate><guid>https://aklycoh.github.io/posts/understanding_experience_vs_science/</guid><description>&lt;p>人们常常困惑于这样一个看似矛盾的问题：一方面，我们强调科学的本质是经验的；另一方面，却又不断提醒经验本身靠不住，比如许多人认为中医只是“经验医学”。这种看似矛盾的观点究竟如何解释？&lt;/p>
+&lt;p>其实，这种矛盾只是表面现象，背后真正冲突的是两种截然不同的“经验”：&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>&lt;strong>日常/个体经验&lt;/strong>&lt;/th>
+&lt;th>&lt;strong>科学经验（empirical evidence）&lt;/strong>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;strong>获取方式&lt;/strong>&lt;/td>
+&lt;td>随机、无对照，凭记忆与直觉&lt;/td>
+&lt;td>系统设计，随机分组，对照、盲法&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>样本量&lt;/strong>&lt;/td>
+&lt;td>极小，往往只是个人或少数案例&lt;/td>
+&lt;td>足够大，可统计分析&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>可重复性&lt;/strong>&lt;/td>
+&lt;td>很难复现，往往因时因地而异&lt;/td>
+&lt;td>设计为可在不同实验室、不同人群复现&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>控制偏差&lt;/strong>&lt;/td>
+&lt;td>几乎没有，对混杂变量无能为力&lt;/td>
+&lt;td>主动隔离或量化混杂变量，使用统计方法剔除&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>理论支撑&lt;/strong>&lt;/td>
+&lt;td>多凭隐喻与传统观念&lt;/td>
+&lt;td>由可证伪的机制或模型指导&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;strong>结论强度&lt;/strong>&lt;/td>
+&lt;td>直观、动人，却经常错&lt;/td>
+&lt;td>经受统计检验，置信度可量化&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="为什么科学是经验的">为什么科学是经验的？&lt;/h2>
+&lt;p>科学的“经验”（empiricism）是指知识最终必须建立在可观察、可测量的事实基础之上。无论是牛顿定律、量子力学，还是流行病学，再抽象的理论最终都要通过实验或观察数据来验证。这种经验主义承认感官与仪器提供的信息是评判真假的唯一标准，但也承认感官可能会欺骗我们，因此必须设计严格的实验与测量方法来避免欺骗。&lt;/p>
+&lt;h2 id="为什么说日常经验靠不住">为什么说日常经验靠不住？&lt;/h2>
+&lt;p>人们平常所说的“经验”，往往指的是未经系统控制的个人体验或口口相传的知识。这种经验容易受到人类认知的各种偏差影响，比如叙事偏好、幸存者偏差、回忆偏差等，从而导致对因果关系的错误归因。比如传统医学，包括中医、西方古典医学，都依赖师徒相传或口口相传的病例和疗效，但由于缺乏科学方法的支持，这些疗效可能混杂了自然病程、安慰剂效应和选择性记忆。&lt;/p>
+&lt;h2 id="以中医为例">以中医为例&lt;/h2>
+&lt;p>中医拥有几千年的历史经验，这些经验可以看作临床观察数据，为科学提供宝贵的假设线索。然而，如果要将中医经验转化为现代医学证据，就必须接受科学方法的检验，包括随机对照试验（RCT）、剂量反应曲线、作用机制研究等。只有经过严格的科学验证，传统疗法才可能从“可能有效”转变为“确定有效”。&lt;/p>
+&lt;h2 id="如何协调这两种经验">如何协调这两种经验？&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>分层信度&lt;/strong>：所有证据应放在一个可靠性金字塔中，个人经验位于底层，而系统评价和荟萃分析则处于顶端。&lt;/li>
+&lt;li>&lt;strong>假设与检验闭环&lt;/strong>：传统经验提出的假设应通过现代科学方法加以验证，只有通过验证的才能进入科学体系。&lt;/li>
+&lt;li>&lt;strong>方法论的重要性&lt;/strong>：科学贡献的不仅仅是具体结论，更是一整套防止自我欺骗的方法论，比如对照实验、随机化试验等，这些都可以应用于传统医学。&lt;/li>
+&lt;li>&lt;strong>技术升级&lt;/strong>：利用大数据、实时监测、人工智能等技术，使传统医学获得大规模、精确的数据支持。&lt;/li>
+&lt;li>&lt;strong>保持怀疑精神&lt;/strong>：经验是灵感的来源，但只有经得住怀疑和严格检验的经验才能成为科学知识。&lt;/li>
+&lt;/ol>
+&lt;h2 id="前瞻性展望">前瞻性展望&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>经验的重要性将持续存在&lt;/strong>：临床直觉和民间疗法将继续是医学创新的重要来源，关键是如何科学地提炼和验证。&lt;/li>
+&lt;li>&lt;strong>证据医学的演进&lt;/strong>：随着真实世界数据（RWD）与因果推断技术的发展，询证医学将进入更加个性化的时代，传统医学也将因此焕发新生。&lt;/li>
+&lt;li>&lt;strong>跨学科合作&lt;/strong>：只有药理学、统计学、历史学、临床医学等多学科的合作，才能将传统疗效故事转化为现代药物说明书。&lt;/li>
+&lt;/ul>
+&lt;h2 id="一句话总结">一句话总结&lt;/h2>
+&lt;p>科学尊重所有可观察事实，但只接受经过系统、可重复、可量化检验的事实作为“可靠经验”，而未经过科学检验的经验，只能作为有待验证的假说。区分清楚这两种“经验”，才不会误将科学经验主义与普通的个人经验混为一谈。&lt;/p></description></item><item><title>科学如何帮助我们应对压力</title><link>https://aklycoh.github.io/posts/pressure/</link><pubDate>Tue, 08 Jul 2025 08:25:00 +0800</pubDate><guid>https://aklycoh.github.io/posts/pressure/</guid><description>&lt;p>今天读了《Nature》（作者：Lynne Peeples）上一篇关于压力如何损害我们健康的论文，我把重要内容分享给大家。&lt;/p>
 &lt;h3 id="为什么压力问题如此重要">为什么压力问题如此重要？&lt;/h3>
 &lt;p>在我们日常生活中，压力无处不在，从职场的高压演讲到失业、离婚、甚至是失去亲人等重大创伤事件，都可能带来压力。当身体感知到威胁时，压力激素（如皮质醇）大量释放，肌肉紧张，心跳加速，血糖水平升高，以帮助我们快速反应。这种“战或逃”的机制本来是帮助人类生存的，但它并未进化出适应现代社会的交通堵塞、网络霸凌或信用卡债务等持续性的压力源。这种进化的不匹配导致长期的慢性压力，进而引发心脏病、癌症、中风、呼吸道疾病、甚至自杀等严重健康问题。&lt;/p>
 &lt;h3 id="压力何时从良好变为有害">压力何时从“良好”变为“有害”？&lt;/h3>
